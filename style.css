@@ -1,0 +1,157 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    position: relative;
+    font-family: 'Karla', sans-serif;
+    background-color: hsl(204, 43%, 93%);
+    height: 100%;
+    margin: 0;
+}
+
+
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.main {
+    width: 49rem;
+    height: 33rem;
+    position: absolute;
+    left: 50%;
+    margin-left: -24.5rem;
+    top: 50%;
+    margin-top: 232.6px;
+}
+
+.top {
+    background-color: white;
+    padding: 30px 60px;
+    border-radius: 20px 20px 0 0;
+}
+
+h1 {
+
+    color: hsl(179, 62%, 43%);
+    font-weight: 700;
+}
+
+h2 {
+    color: hsl(71, 73%, 54%);
+    padding-top: 10px;
+    margin: 0;
+}
+
+h3 {
+    font-weight: 400;
+    color: hsl(218, 22%, 67%);
+}
+
+.bot-left {
+    background-color: hsl(179, 62%, 43%);
+    display: inline-block;
+    width: 50%;
+    height: 16.8em;
+    border-radius: 0 0 0px 20px;
+}
+
+.bot-left h2 {
+    color: white;
+    display: inline-block;
+    position: relative;
+    left: 60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.bot-left p {
+    color: white;
+    position: relative;
+}
+
+.dollar {
+    font-weight: 700;
+    color: white;
+    font-size: 2.3rem;
+    position: relative;
+    top: 10px;
+    left: 60px;
+    bottom: 10px;
+
+}
+
+.bot-right {
+    display: inline-block;
+    position: absolute;
+    width: 50%;
+    height: 16.8rem;
+    background-color: hsl(179, 63%, 62%);
+    border-radius: 0 0 20px 0;
+}
+
+.bot-right h2{
+    color: white;
+    font-weight: 700;
+    display: inline-block;
+    position: relative;
+    left: 60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.bot-right h3{
+    color: white;
+    font-weight: 400;
+    position: relative;
+    left: 60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.bot-right p {
+    margin: 0;
+    width: 19rem;
+    position: relative;
+    bottom: 12px;
+}
+
+.month {
+    font-weight: 400;
+    font-size: 1.3em;
+    color: hsl(204, 43%, 93%);
+    display: inline-block;
+    position: relative;
+    left: 70px;
+    top: 5px;
+    padding-bottom: 0px;
+}
+
+.full-access {
+    display: inline-block;
+    position: relative;
+    left: 60px;
+    top: 25px;
+    font-size: 1.1rem;
+    color: hsl(204, 43%, 93%);
+
+}
+
+.button {
+    position: relative;
+    top: 50px;
+    left: 60px;
+    padding: 1em 6.5rem; 
+    border-radius: 10px;
+    background-color: rgb(151, 236, 39);
+    font-weight: 700;
+}
